@@ -1,8 +1,5 @@
 # NinjaTrader Automated Trading Strategy
 
-### Inside Bar Breakout Signals
-
-![Inside Bar](https://github.com/iniguezdj/ninjatrader_inside_strategy/blob/master/mes_5min.PNG)
 
 ### About
 
